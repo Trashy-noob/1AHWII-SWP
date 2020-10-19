@@ -3,3 +3,8 @@ h1 {
     font-variant: small-caps;
     color: steelblue;
 }
+
+.date {
+    font-weight: bold;
+    color: red;
+}
